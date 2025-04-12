@@ -44,6 +44,10 @@ a {
   color: gray;
 }
 
+li {
+  text-decoration: none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
